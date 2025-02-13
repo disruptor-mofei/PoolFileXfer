@@ -1,12 +1,13 @@
 /*************************************************************************
-	> File Name: main.c
+	> File Name: conf.h
 	> Author: 
 	> Mail: 
-	> Created Time: Mon 10 Feb 2025 09:41:03 PM CST
+	> Created Time: Thu 13 Feb 2025 03:11:00 PM CST
  ************************************************************************/
 
-#include <common.h>
-int main() {
-    
-    return 0;
-}
+#ifndef _CONF_H
+#define _CONF_H
+
+
+
+#endif
